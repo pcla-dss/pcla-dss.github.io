@@ -12,5 +12,3 @@ Critically evaluate digital projects for methodology, integration and choice of 
 Contribute documentation of any processes, procedures, tools, and code to benefit the larger digital scholarship community.<p>
 Participate and engage in the digital scholarship community of practice.<p>
 <b>Program links:</b> <a href=http://dssrf2018.blogs.bucknell.edu/>2018</a>; <a href=http://dssrf.blogs.bucknell.edu/>2017</a>
-
-test
