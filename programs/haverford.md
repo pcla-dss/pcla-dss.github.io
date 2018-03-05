@@ -8,6 +8,10 @@ Program Dates: Mid May - End of July (11 weeks total)
 Number of Students Involved: ~10
 
 Units/Divisions Involved:
+Digital Scholarship (Library)
+Quaker and Special Collections (Library)
+Faculty
+Center for Peace and Global Citizenship
 
 Primary Goals
 
