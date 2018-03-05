@@ -1,6 +1,7 @@
 **Program Title:** Digital Humanities Summer Scholars Program 
 
 **Program Director:**
+                  
                   Angela Perkins, Research & Instruction Librarian
                   
                   Skillman Library, Lafayette College 
