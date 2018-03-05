@@ -18,3 +18,4 @@ Primary Goals:
 
 Program links:
 [Student Staff, Fellows, and Interns](https://www.haverford.edu/library/digital-scholarship/student-staff)
+[Haverford College Libraries Digital Scholarship](https://www.haverford.edu/library/digital-scholarship)
