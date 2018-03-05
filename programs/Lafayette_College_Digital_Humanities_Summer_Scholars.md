@@ -7,14 +7,14 @@
 
 **Year Program Created:** 2015
 
-Short Description:
+**Short Description:**
 
-Program Dates: May 15 - June 25
+**Program Dates:** May 15 - June 25
 
-Number of Students Involved: 8-10 
+**Number of Students Involved:** 8-10 
 
-Units/Divisions Involved: Skillman Library 
+**Units/Divisions Involved:** Skillman Library 
 
-Primary Goals: 
+**Primary Goals:** 
 
-Program links: https://sites.lafayette.edu/dhss/our-projects/
+**Program links:** https://sites.lafayette.edu/dhss/our-projects/
