@@ -28,3 +28,4 @@ Program directors:
 - Alex Galarza, CLIR Postdoctoral Fellow in Data Curation and Latin American & Caribbean Studies
 - Emily Thaisrivongs, Metadata Librarian
 - Semyon Khokhlov, Research and Instruction Librarian
+- Adam Crandell, Music Librarian and Coordinator for User Experience
