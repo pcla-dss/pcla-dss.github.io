@@ -5,6 +5,7 @@ Module Creator(s)
 
 Creative Commons License  
 
+[Live Google Doc Template](https://docs.google.com/document/d/1Kb9UZMVg5gFV6jxUiBDTYe51UDrll5KcZzqlFbXhmnA/copy)
 
 Learning Goals
 * Goal #1
