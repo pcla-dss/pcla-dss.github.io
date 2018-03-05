@@ -1,5 +1,4 @@
-Program Description Template
-Program Title: Digital Technology Summer Internships
+# Program Title: Digital Technology Summer Internships
 Year Program Created: Summer 2013 (has evolved since then)
 Short Description: LITS hosts several 10-week, full-time paid summer internships that enable undergraduates develop their digital competencies while working with Bryn Mawr faculty and staff on projects that support the College's educational programs and mission. Projects can include developing documentation and training materials for digital technologies, developing instructional or informational videos, helping with website design and production, and helping faculty develop digital course assignments. Specific intern activities vary based on need. In summer 2017 we offered internships in Digital Curriculum and in AR/VR. In summer 2018 we plan to offer internships in Digital Curriculum, Multi-media production, and Information Security.
 Program Dates: Approximately June 4 - August 11. (Can vary based on needs and student schedules.)
