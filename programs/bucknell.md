@@ -25,4 +25,4 @@
   
   - Participate and engage in the digital scholarship community of practice.
   
-**Program links:** <a href=http://dssrf2018.blogs.bucknell.edu/>2018</a>; <a href=http://dssrf.blogs.bucknell.edu/>2017</a>
+**Program links:** [2018](http://dssrf2018.blogs.bucknell.edu/); [2017](http://dssrf.blogs.bucknell.edu/)
