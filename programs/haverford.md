@@ -1,6 +1,7 @@
-Haverford College Libraries Summer Internships
+## Haverford College Libraries Summer Internships
 
 Year Program Created: 2012
+
 Short Description: 
 
 Program Dates: Mid May - End of July (11 weeks total)
@@ -13,6 +14,7 @@ Quaker and Special Collections (Library)
 Faculty
 Center for Peace and Global Citizenship
 
-Primary Goals
+Primary Goals:
 
 Program links:
+[Student Staff, Fellows, and Interns](https://www.haverford.edu/library/digital-scholarship/student-staff)
