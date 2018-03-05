@@ -5,17 +5,25 @@
 
 Swarthmore Projects for Experiment and Educational Development (SPEED)
 
-## Year Program Created: 2012
+## Year Program Created:
+
+2012
 
 ## Short Description:
 
 Each Spring, the Swarthmore College Libraries and ITS invite all current employees to submit proposals to Swarthmore Projects for Educational Exploration and Development (SPEED). SPEED awards provide dedicated support from software developers, librarians, academic technologists, and student interns for an eight-week period of project development. Awards do not typically fund purchases of equipment or software. With a SPEED project team's help, faculty and staff can create a new digital object or resource that enhances teaching or facilitates undergraduate 
 
-## Program Dates: June - July (8 weeks)
+## Program Dates:
 
-## Number of Students Involved: 4 - 8
+June - July (8 weeks)
 
-## Units/Divisions Involved: Library and Information Technology Services (ITS)
+## Number of Students Involved:
+
+4 - 8
+
+## Units/Divisions Involved:
+
+Library and Information Technology Services (ITS)
 
 ## Primary Goals:
 
