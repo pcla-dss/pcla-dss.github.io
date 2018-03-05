@@ -1,6 +1,6 @@
-##Bucknell Digital Scholarship Summer Research Fellows
+<b>Bucknell Digital Scholarship Summer Research Fellows</b>
 
-####Program Directors: Courtney Paddick, Arts & Humanities Librarian; Carrie Pirmann, Social Sciences Librarian<p>
+<b>Program Directors:</b> Courtney Paddick, Arts & Humanities Librarian; Carrie Pirmann, Social Sciences Librarian<p>
 <b>Year Program Created:</b> 2017<p>
 <b>Short Description:</b> The Digital Scholarship Summer Research Fellowship (DSSRF) is a librarian-led program which introduces students to digital scholarship tools and methodologies, and equips them with the skills necessary to undertake an independent, digitally-based research project. DSSRF incorporates the expertise of staff from various departments across Library & IT to give students an engaging and transformative educational experience. <p>
 <b>Program Dates:</b> May 30 - July 27, 2018<p>
