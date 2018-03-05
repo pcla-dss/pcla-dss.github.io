@@ -27,7 +27,7 @@ June 4 - July 27, 2018
 
 ## Number of Students Involved:
 
-5
+5 (2018 cohort)
 
 ## Units/Divisions Involved:
 
