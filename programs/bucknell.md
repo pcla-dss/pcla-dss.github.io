@@ -13,16 +13,16 @@
 **Units/Divisions Involved:** Research Services; Digital Pedagogy & Scholarship; other Library & IT staff as needed
 
 **Primary Goals:** 
-  -Value the process of creating a digital project (not just the final project, but the steps undertaken to produce a project).
+  - Value the process of creating a digital project (not just the final project, but the steps undertaken to produce a project).
 
-  -Understand the research process and apply research skills to undertake an academic, public-facing digital scholarship project.
+  - Understand the research process and apply research skills to undertake an academic, public-facing digital scholarship project.
 
-  -Write for a public audience on the web.
+  - Write for a public audience on the web.
   
-  -Critically evaluate digital projects for methodology, integration and choice of digital tools, scholarship and design.
+  - Critically evaluate digital projects for methodology, integration and choice of digital tools, scholarship and design.
   
-  -Contribute documentation of any processes, procedures, tools, and code to benefit the larger digital scholarship community.
+  - Contribute documentation of any processes, procedures, tools, and code to benefit the larger digital scholarship community.
   
-  -Participate and engage in the digital scholarship community of practice.
+  - Participate and engage in the digital scholarship community of practice.
   
 **Program links:** <a href=http://dssrf2018.blogs.bucknell.edu/>2018</a>; <a href=http://dssrf.blogs.bucknell.edu/>2017</a>
