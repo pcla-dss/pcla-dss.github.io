@@ -21,9 +21,10 @@ Mid May - End of July (11 weeks total)
 - Center for Peace and Global Citizenship
 
 #### Primary Goals:
-- Improve existing or build new features for custom-built projects
-- Build collaborative atmosphere amongst DS interns, faculty research assistants, and summer library interns
-- Students produce work that they can show to prospective employers
+- Build DS projects that support faculty research and student learning with a primary focus on a research question
+- Develop a cohort of ethically and socially conscious student developers through partnerships with faculty, community groups, local developers and alumni
+- 
+- Students produce work that 
 - 
 
 #### Program links:
