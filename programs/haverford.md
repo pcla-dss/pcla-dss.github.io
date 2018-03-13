@@ -21,10 +21,11 @@ Mid May - End of July (11 weeks total)
 - Center for Peace and Global Citizenship
 
 #### Primary Goals:
-- Build DS projects that support faculty research and student learning with a primary focus on the research question
-- Develop a cohort of ethically and socially conscious student developers through partnerships with faculty, community groups, local developers and alumni
+- Partner with faculty and students to create projects that explore research questions and methods
+- Partner with community groups, local developers and alumni to develop a cohort of ethically and socially conscious student developers who create knowledge that has an impact on campus and in local and global communities
 - Foster a critical approach to technology... learning how to use tools but also understanding the construction of those tools
-- Students produce public-facing work that can be part of their academic and professional portfolio
+- Support students in the creation of public-facing digital work that can be part of their academic and professional portfolio
+- Create a work environment in which project members, including faculty, students, librarians, and community partners, are valued and recognized 
 - Provide exposure to and experience in the kind of work students will encounter in the tech sector that is largely aligned with convention and best practices. This includes technical work as well as project design and management.
 
 #### Program links:
