@@ -25,7 +25,7 @@ Mid May - End of July (11 weeks total)
 - Develop a cohort of ethically and socially conscious student developers through partnerships with faculty, community groups, local developers and alumni
 - Foster a critical approach to technology... learning how to use tools but also understanding the construction of those tools
 - Students produce public-facing work that can be part of their academic and professional portfolio
-- Provide exposure to and experience in the kind of work students will encounter in the tech sector that is largely aligned with convention and best practices
+- Provide exposure to and experience in the kind of work students will encounter in the tech sector that is largely aligned with convention and best practices. This includes technical work as well as project design and management.
 
 #### Program links:
 [Student Staff, Fellows, and Interns](https://www.haverford.edu/library/digital-scholarship/student-staff)
