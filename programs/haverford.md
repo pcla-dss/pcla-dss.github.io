@@ -1,7 +1,7 @@
 ## Haverford College Libraries Summer Internships
 
 #### Program Created
-2012
+2011
 
 #### Description
 Over the past 6+ years, we have built a growing stable of faculty research projects, course support, and in-house projects in collaboration with our Quaker and Special Collections department. Six librarians now support digital scholarship on campus in some way, including a full-time DS Librarian and a postdoctoral fellow. Our roles in fostering DS have always been rather fluid, as we prefer to partner with faculty, students, and IT staff on collaborative projects. As a result, we are sometimes technical support, sometimes project managers, sometimes server admins, sometimes a web development team, sometimes pedagogical design/support, etc. as well as intellectual partners on research projects. We also are radically inclusive of undergraduate students in our work, which creates a range of challenges and rewards (and has a direct effect on the direction and pace of our project work). Students work as part of the DS team during the academic year as developers, as interns during the summer, and in our co-curricular fellowship program. 
@@ -18,13 +18,19 @@ Mid May - End of July (11 weeks total)
 - Digital Scholarship (Library)
 - Quaker and Special Collections (Library)
 - Faculty
+- Instructional and Information Technology (IITS)
+
+#### Additional Support Provided By:
 - Center for Peace and Global Citizenship
+- Hurford Center for Arts and Humanities
+- Provost's Office
 
 #### Primary Goals:
 - Partner with faculty and students to create digital projects that explore research questions and methods
 - Partner with community groups, local developers, and alumni to develop a cohort of ethically and socially conscious student developers who create knowledge that has impact on campus and in local and global communities
 - Support students in the creation of public-facing digital work that can be part of their academic and professional portfolio
 - Foster a collaborative work environment in which project members, including faculty, students, librarians, and community partners, are valued and recognized
+- Foster a critical approach to the intersections of technology and scholarship
 - Provide exposure to and experience in the kind of work students will encounter in the tech sector that is largely aligned with best practices in coding, project design, and project management
 
 #### Program links:
@@ -33,9 +39,10 @@ Mid May - End of July (11 weeks total)
 [Haverford College Libraries Digital Scholarship](https://www.haverford.edu/library/digital-scholarship)
 
 #### Program directors:
-- Mike Zarafonetis, Coordinator for Digital Scholarship and Research Services
-- Andy Janco, Digital Scholarship Librarian
-- Alex Galarza, CLIR Postdoctoral Fellow in Data Curation and Latin American & Caribbean Studies
-- Emily Thaisrivongs, Metadata Librarian
-- Semyon Khokhlov, Research and Instruction Librarian
-- Adam Crandell, Music Librarian and Coordinator for User Experience
+- Mike Zarafonetis, Coordinator for Digital Scholarship and Research Services, Libraries
+- Andy Janco, Digital Scholarship Librarian, Libraries
+- Alex Galarza, CLIR Postdoctoral Fellow in Data Curation and Latin American & Caribbean Studies, Libraries
+- Emily Thaisrivongs, Metadata Librarian, Libraries
+- Semyon Khokhlov, Research and Instruction Librarian, Libraries
+- Adam Crandell, Music Librarian and Coordinator for User Experience, Libraries
+- Adam Portier, Linux Administrator, IITS
