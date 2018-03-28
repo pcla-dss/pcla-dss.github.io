@@ -30,7 +30,7 @@ Mid May - End of July (11 weeks total)
 - Partner with community groups, local developers, and alumni to develop a cohort of ethically and socially conscious student developers who create knowledge that has impact on campus and in local and global communities
 - Support students in the creation of public-facing digital work that can be part of their academic and professional portfolio
 - Foster a collaborative work environment in which project members, including faculty, students, librarians, and community partners, are valued and recognized
-- Encourage exploration and critique of technological tools and their intersections with research and scholarship
+- Encourage the exploration and critique of technological tools and their intersections with research and scholarship
 - Provide exposure to and experience in the kind of work students will encounter in the tech sector that is largely aligned with best practices in coding, project design, and project management
 
 #### Program links:
