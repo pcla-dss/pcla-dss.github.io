@@ -3,8 +3,7 @@
 ## Program Templates
 
 ### Bucknell University
-  - [Digital Scholarship Summer Research Fellowship Award Contract](Bucknell DSSRF Student Contract 2017)
- 
+  - [Digital Scholarship Summer Research Fellowship Award Contract](Bucknell DSSRF Student Contract 2017.pdf)
   -
   - 
 
