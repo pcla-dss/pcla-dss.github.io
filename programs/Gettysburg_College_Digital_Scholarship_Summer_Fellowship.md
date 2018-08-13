@@ -13,7 +13,7 @@ Library Digital Scholarship Committee: <LibraryDS@gettysburg.edu>
 - Amy Lucadamo, College Archivist: <alucadam@gettysburg.edu>
 - R.C. Miessler, Systems Librarian: <rmiessle@gettysburg.edu>
 - Kevin Moore Research & Instruction Librarian: <kmoore@gettysburg.edu>
-- Janelle Wertzberger, Assistant Dean & Director of Scholarly Communication: <jwertzbe@gettysburg.edu>
+- Janelle Wertzberger, Assistant Dean & Director of Scholarly Communications: <jwertzbe@gettysburg.edu>
 
 ## Year Program Created:
 
