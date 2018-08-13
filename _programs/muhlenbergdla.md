@@ -37,4 +37,4 @@ Develop students' capacitites to serve as partners in digital learning and schol
 [Digital Learning Assistants](http://diglearn.blogs.muhlenberg.edu/partners/digital-learning-assistants/)
 
 ## Program Directors:
-[Jenna Azar](jennaazar@muhlenberg.edu)
+ Jenna Azar <jennaazar@muhlenberg.edu>

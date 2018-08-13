@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Useful Resources for Building Programs and Projects
+permalink: /resources/
 ---
 
 ## Program Templates
@@ -28,7 +29,7 @@ title: Useful Resources for Building Programs and Projects
   
 ## Digital Scholarship Tutorial Files
 
-Please see the directory of [tutorials](../tutorials/tutorials.md) for more information.
+Please see the directory of [tutorials](/tutorials/) for more information.
 
 ## Digital Tools 
 

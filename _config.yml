@@ -13,22 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
+# theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "PCLA Digital Scholarship Programs"
 description: "DS Programs at the undergraduate level"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://pcla-dss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
 google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
+  - name: "Work Sans"
+    weights: "400,700"
+  - name: "IBM Plex Serif"
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
@@ -51,7 +51,7 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
@@ -60,14 +60,10 @@ search_full_content: false # can have performance implications for large sites
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
 
 plugins:
   - jekyll-seo-tag
@@ -89,7 +85,13 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
+      share: false
+  - scope:
+      path: "_programs"
+      type: programs
+    values:
+      layout: post
+      share: false
 
 # Site Author
 author:
