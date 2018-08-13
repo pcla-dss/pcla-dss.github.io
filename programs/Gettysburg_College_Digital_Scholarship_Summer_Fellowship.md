@@ -1,20 +1,21 @@
 title: Gettysburg College
 categories:
-- description:
-
+  - description:
+---
 # Program Title:
 
 Digital Scholarship Summer Fellowship
 
 ## Program Directors:
 
-[Library Digital Scholarship Committee]<LibraryDS@gettysburg.edu>
+Library Digital Scholarship Committee: <LibraryDS@gettysburg.edu>
 
-- Clint Baugess / cbaugess@gettysburg.edu
-- John Dettinger / jdetting@gettysburg.edu
-- Amy Lucadamo / alucadam@gettysburg.edu
-- R.C. Miessler / rmiessle@gettysburg.edu
-- Kevin Moore / kmoore@gettysburg.edu
+- Clint Baugess: <cbaugess@gettysburg.edu>
+- John Dettinger: <jdetting@gettysburg.edu>
+- Amy Lucadamo: <alucadam@gettysburg.edu>
+- R.C. Miessler: <rmiessle@gettysburg.edu>
+- Kevin Moore: <kmoore@gettysburg.edu>
+- Janelle Wertzberger: <jwertzbe@gettysburg.edu>
 
 ## Year Program Created:
 
@@ -26,7 +27,7 @@ Musselman Library’s Digital Scholarship Summer Fellowship is a paid, 8-week, l
 
 ## Program Dates:
 
-June 4 - July 27, 2018
+2018: June 4 - July 27, 2018
 
 ## Number of Students Involved:
 
