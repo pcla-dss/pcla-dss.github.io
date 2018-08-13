@@ -1,4 +1,4 @@
-title: 
+title: Bryn Mawr College, Educational Technology Services
 categories:
   - description
 ---
