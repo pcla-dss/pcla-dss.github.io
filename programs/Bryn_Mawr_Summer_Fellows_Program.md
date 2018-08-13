@@ -1,3 +1,9 @@
+
+title:
+categories:
+  - description
+---
+
 #Program Title: 
 Bryn Mawr Digital Scholarship Summer Fellows
 
