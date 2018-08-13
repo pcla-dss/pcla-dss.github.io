@@ -9,7 +9,7 @@
 
 ### Bryn Mawr College
 
-  - pDigital Scholarship's Summer Fellowship Schedule](BrynMawrDSSF_2017Schedule)
+  - [Digital Scholarship's Summer Fellowship Schedule](BrynMawrDSSF_2017Schedule)
 
 ### Lafayette College
 
