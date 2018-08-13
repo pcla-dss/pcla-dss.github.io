@@ -2,10 +2,18 @@
 
 ## Program Templates
 
+### Bucknell University
+  -
+  -
+  - 
+
+### Lafayette College
+
+### [Placeholder for College]
 
 ## Digital Scholarship Tutorial Files
 
-Please see the directory of [tutorials](../tutorials/tutorials.md)tutorials for more information.
+Please see the directory of [tutorials](../tutorials/tutorials.md) for more information.
 
 ## Digital Tools 
 
