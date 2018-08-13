@@ -1,10 +1,14 @@
+title: Gettysburg College
+categories:
+- description:
+
 # Program Title:
 
 Digital Scholarship Summer Fellowship
 
 ## Program Directors:
 
-Library Digital Scholarship Committee / LibraryDS@gettysburg.edu
+[Library Digital Scholarship Committee](LibraryDS@gettysburg.edu)
 
 - Clint Baugess / cbaugess@gettysburg.edu
 - John Dettinger / jdetting@gettysburg.edu
@@ -44,6 +48,6 @@ June 4 - July 27, 2018
 
 ## Program Links:
 
-- 2018: https://dssf.musselmanlibrary.org/2018/
-- 2017: https://dssf.musselmanlibrary.org/2017/
-- 2016: https://dssf.musselmanlibrary.org/2016/ 
+- [2018](https://dssf.musselmanlibrary.org/2018/)
+- [2017](https://dssf.musselmanlibrary.org/2017/)
+- [2016](https://dssf.musselmanlibrary.org/2016/)
