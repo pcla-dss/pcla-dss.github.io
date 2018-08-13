@@ -1,5 +1,5 @@
 
-title:
+title: Bryn Mawr College, Digital Scholarship
 categories:
   - description
 ---
