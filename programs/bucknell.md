@@ -1,5 +1,4 @@
-title: Bucknell University
-categories:
+title: categories:
   - description
 ---
 
