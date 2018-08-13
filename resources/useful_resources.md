@@ -31,8 +31,8 @@ Please see the directory of [tutorials](../tutorials/tutorials.md) for more info
 
 ### DH Toychest:
 
-http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools/ (UCSB Professor Alan Liu's compilation of digital humanities tools, tutorials, datasets, etc.)
+Alan Liu's compilation of DH/DS tools, tutorials, datasets, etc: [http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools/]
 
 ### DiRT Directory: 
 
-https://dirtdirectory.org/ (An index of digital tools)
+DiRT Directory's index of digital tools: [https://dirtdirectory.org/]
