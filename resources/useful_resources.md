@@ -13,7 +13,7 @@
 
 ### Gettysburg College
  
-  -[Digital Scholarship Summer Fellows CFP](Gettysburg College DSSF Application.pdf)
+  - [Digital Scholarship Summer Fellows CFP](Gettysburg College DSSF Application.pdf)
 
 ### Lafayette College
 
@@ -21,7 +21,7 @@
 
 ### Muhlenberg College
 
-  -[DigiLearn](http://diglearn.blogs.muhlenberg.edu/)
+  - [DigiLearn](http://diglearn.blogs.muhlenberg.edu/)
   
 ## Digital Scholarship Tutorial Files
 
