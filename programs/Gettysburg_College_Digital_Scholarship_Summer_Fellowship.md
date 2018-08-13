@@ -1,19 +1,11 @@
 title: Gettysburg College
 categories:
-  - description:
+  - description
 ---
-# Gettysburg College Digital Scholarship Summer Fellowship
 
-## Program Directors:
+# Program Title:
 
-Library Digital Scholarship Committee: <LibraryDS@gettysburg.edu>
-
-- Clint Baugess, Research & Instruction Librarian: <cbaugess@gettysburg.edu>
-- John Dettinger, Assistant Director of User Services: <jdetting@gettysburg.edu>
-- Amy Lucadamo, College Archivist: <alucadam@gettysburg.edu>
-- R.C. Miessler, Systems Librarian: <rmiessle@gettysburg.edu>
-- Kevin Moore Research & Instruction Librarian: <kmoore@gettysburg.edu>
-- Janelle Wertzberger, Assistant Dean & Director of Scholarly Communications: <jwertzbe@gettysburg.edu>
+Gettysburg College Digital Scholarship Summer Fellowship
 
 ## Year Program Created:
 
@@ -50,3 +42,14 @@ June 4 - July 27, 2018
 - [2018](https://dssf.musselmanlibrary.org/2018/)
 - [2017](https://dssf.musselmanlibrary.org/2017/)
 - [2016](https://dssf.musselmanlibrary.org/2016/)
+
+## Program Directors:
+
+Library Digital Scholarship Committee: <LibraryDS@gettysburg.edu>
+
+- Clint Baugess, Research & Instruction Librarian: <cbaugess@gettysburg.edu>
+- John Dettinger, Assistant Director of User Services: <jdetting@gettysburg.edu>
+- Amy Lucadamo, College Archivist: <alucadam@gettysburg.edu>
+- R.C. Miessler, Systems Librarian: <rmiessle@gettysburg.edu>
+- Kevin Moore Research & Instruction Librarian: <kmoore@gettysburg.edu>
+- Janelle Wertzberger, Assistant Dean & Director of Scholarly Communications: <jwertzbe@gettysburg.edu>
