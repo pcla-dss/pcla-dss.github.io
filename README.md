@@ -1,7 +1,3 @@
-title: Introduction
-categories:
-  - description
----
 
 ## About this Site
 
@@ -10,3 +6,4 @@ Within this site, you will find a collection of descriptions and materials about
 ## Share Your Work
 
 Instructions for how to share information about your program and materials through this repository are forthcoming. 
+
