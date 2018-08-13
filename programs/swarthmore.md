@@ -1,5 +1,8 @@
 
-# Program Description
+title: Swarthmore College
+categories:
+  - description
+---
 
 ## Program Title
 
