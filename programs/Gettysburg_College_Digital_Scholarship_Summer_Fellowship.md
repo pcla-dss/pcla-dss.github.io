@@ -8,7 +8,7 @@ Digital Scholarship Summer Fellowship
 
 ## Program Directors:
 
-[Library Digital Scholarship Committee](LibraryDS@gettysburg.edu)
+[Library Digital Scholarship Committee]<LibraryDS@gettysburg.edu>
 
 - Clint Baugess / cbaugess@gettysburg.edu
 - John Dettinger / jdetting@gettysburg.edu
