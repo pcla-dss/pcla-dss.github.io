@@ -11,7 +11,6 @@ Library Digital Scholarship Committee / LibraryDS@gettysburg.edu
 - Amy Lucadamo / alucadam@gettysburg.edu
 - R.C. Miessler / rmiessle@gettysburg.edu
 - Kevin Moore / kmoore@gettysburg.edu
-- Janelle Wertzberger /  jwertzbe@gettysburg.edu
 
 ## Year Program Created:
 
@@ -45,6 +44,6 @@ June 4 - July 27, 2018
 
 ## Program Links:
 
-- 2018 (forthcoming): https://dssf.musselmanlibrary.org/2018/
+- 2018: https://dssf.musselmanlibrary.org/2018/
 - 2017: https://dssf.musselmanlibrary.org/2017/
 - 2016: https://dssf.musselmanlibrary.org/2016/ 
