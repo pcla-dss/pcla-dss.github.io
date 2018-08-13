@@ -1,6 +1,6 @@
 title: Bucknell University
 categories:
-  -description
+  - description
 ---
 
 # Bucknell Digital Scholarship Summer Research Fellows
