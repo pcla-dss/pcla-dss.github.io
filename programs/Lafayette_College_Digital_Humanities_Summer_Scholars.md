@@ -4,29 +4,31 @@ categories:
   - description
 ---
 
-##Program Title:
+## Program Title:
 Digital Humanities Summer Scholars Program 
 
-##Program Director:
+## Program Director:
 Angela Perkins, Research & Instruction Librarian
+
 Skillman Library, Lafayette College
+
 perkinsa@lafayette.edu
 
-##Year Program Created:
+## Year Program Created:
 2015
 
-##Short Description:
+## Short Description:
 
-##Program Dates:
+## Program Dates:
 May 15 - June 25
 
-##Number of Students Involved:
+## Number of Students Involved:
 8-10 
 
-##Units/Divisions Involved:
+## Units/Divisions Involved:
 Skillman Library 
 
-##Primary Goals: 
+## Primary Goals: 
 
-##Program links: 
+## Program links: 
 https://sites.lafayette.edu/dhss/our-projects/
