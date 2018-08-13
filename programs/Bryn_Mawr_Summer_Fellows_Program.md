@@ -1,4 +1,4 @@
-**Program Title:** Bryn Mawr Digital Scholarship Summer Fellows
+*Program Title:** Bryn Mawr Digital Scholarship Summer Fellows
 
 **Program Directors:** Alicia Peaker, Jessica Linker
 
