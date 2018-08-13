@@ -3,9 +3,11 @@
 ## Program Templates
 
 
+## Digital Scholarship Tutorial Files
+
+Please see the directory of [tutorials](../tutorials/tutorials.md)tutorials for more information.
 
 ## Digital Tools 
-
 
 ### DH Toychest:
 
