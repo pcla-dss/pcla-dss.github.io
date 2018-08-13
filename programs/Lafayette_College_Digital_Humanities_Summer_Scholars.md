@@ -1,4 +1,3 @@
-
 title: Lafayette College 
 categories: 
   - description
