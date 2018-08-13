@@ -4,7 +4,7 @@ categories:
 ---
 
 ## Program Title: 
-Haverford College Libraries Summer Internships
+:squirrel: Haverford College Libraries Summer Internships
 
 ## Year Program Created: 
 2011
