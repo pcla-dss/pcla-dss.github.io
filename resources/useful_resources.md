@@ -17,7 +17,7 @@
 
 ### Lafayette College
 
-  -[Digital Humanities Summer Program CFP](Lafayette_College_2018_DHSS_Program_Call_For_Proposal.pdf)
+  - [Digital Humanities Summer Program CFP](Lafayette_College_2018_DHSS_Program_Call_For_Proposal.pdf)
 
 ### Muhlenberg College
 
