@@ -27,7 +27,7 @@ Musselman Library’s Digital Scholarship Summer Fellowship is a paid, 8-week, l
 
 ## Program Dates:
 
-2018: June 4 - July 27, 2018
+June 4 - July 27, 2018
 
 ## Number of Students Involved:
 
@@ -41,11 +41,11 @@ Musselman Library’s Digital Scholarship Summer Fellowship is a paid, 8-week, l
 
 ## Primary Goals:
 
-1. Develop research question(s) and apply research skills in order to interpret, analyze, and synthesize information. 
-2. Create a project management plan that outlines goals, deadlines, and products in order to build a public-facing digital project.
-3. Distinguish among and employ Digital Humanities tools and methods in order to support the identified research question(s) and project goals.
-4. Actively participate in the Digital Humanities community of practice in order to situate digital scholarship at Gettysburg College within the larger DH community.
-5. Communicate personal experience as a Digital Scholarship Summer Fellow in order to demonstrate the value of undergraduate Digital Humanities research.
+- Develop research question(s) and apply research skills in order to interpret, analyze, and synthesize information. 
+- Create a project management plan that outlines goals, deadlines, and products in order to build a public-facing digital project.
+- Distinguish among and employ Digital Humanities tools and methods in order to support the identified research question(s) and project goals.
+- Actively participate in the Digital Humanities community of practice in order to situate digital scholarship at Gettysburg College within the larger DH community.
+- Communicate personal experience as a Digital Scholarship Summer Fellow in order to demonstrate the value of undergraduate Digital Humanities research.
 
 ## Program Links:
 
