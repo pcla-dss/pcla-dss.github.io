@@ -1,7 +1,7 @@
 ---
 title: Gettysburg College
 categories:
-- description
+- description:
 ---
 
 # Program Title:
