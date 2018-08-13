@@ -5,7 +5,7 @@ categories:
 
 # Program Title:
 
-Gettysburg College Digital Scholarship Summer Fellowship
+Digital Scholarship Summer Fellowship
 
 ## Year Program Created:
 
