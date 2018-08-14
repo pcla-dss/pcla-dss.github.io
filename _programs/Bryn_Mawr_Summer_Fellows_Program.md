@@ -33,4 +33,4 @@ LITS/Digital Scholarship
 * Identify challenges and opportunities of Digital Bryn Mawr for undergraduates.
 
 ## Program links:
-http://digitalscholarship.brynmawr.edu
+[http://digitalscholarship.brynmawr.edu](http://digitalscholarship.brynmawr.edu)
