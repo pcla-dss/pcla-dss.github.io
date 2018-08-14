@@ -32,4 +32,4 @@ Skillman Library
 ## Primary Goals: 
 
 ## Program links: 
-https://sites.lafayette.edu/dhss/our-projects/
+[https://sites.lafayette.edu/dhss/our-projects/](https://sites.lafayette.edu/dhss/our-projects/)
