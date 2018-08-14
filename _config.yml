@@ -17,7 +17,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "PCLA Digital Scholarship Programs"
-description: "DS Programs at the undergraduate level"
+description: "DS at Pennsylvania Liberal Arts Colleges"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://pcla-dss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
