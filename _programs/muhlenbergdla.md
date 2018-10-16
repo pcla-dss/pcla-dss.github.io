@@ -37,6 +37,6 @@ Develop students' capacitites to serve as partners in digital learning and schol
 [Digital Learning Assistants](http://diglearn.blogs.muhlenberg.edu/partners/digital-learning-assistants/)
 
 ## Program Directors:
- Jenna Azar <jennaazar@muhlenberg.edu>
- Tim Clarke <TimothyClarke@muhlenberg.edu>
- Lora Taub-Pervizpour <ltaub@muhlenberg.edu>
+- Jenna Azar <jennaazar@muhlenberg.edu>
+- Tim Clarke <TimothyClarke@muhlenberg.edu>
+- Lora Taub-Pervizpour <ltaub@muhlenberg.edu>
